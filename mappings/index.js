@@ -21,5 +21,7 @@ module.exports = [
   require("./ps4-chrome-linux.json"),
   require("./ps4-chrome-windows-osx.json"),
   require("./ps4-ff-linux.json"),
-  require("./ps4-ff-osx.json")
+  require("./ps4-ff-osx.json"),
+
+  require("./steelseriesxl-chrome-linux.json")
 ];

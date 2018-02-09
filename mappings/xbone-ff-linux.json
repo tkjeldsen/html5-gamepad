@@ -122,6 +122,11 @@
       "browser": "Firefox",
       "id": "045e-02d1-Microsoft X-Box One pad",
       "os": "Linux"
+    },
+    {
+      "browser": "Firefox",
+      "id": "045e-02dd-Microsoft X-Box One pad",
+      "os": "Linux"
     }
   ]
 }
